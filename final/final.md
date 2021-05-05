@@ -1,5 +1,3 @@
-![](are-we-the-baddies.mp4)
-
 ## Am I the Baddie: A Stakeholder Reflective
 
 The key takeaway I have from the cases we've read this semester can be summarized in a singular statement: **sometimes we are very bad at being good.**
@@ -69,3 +67,5 @@ The most readily apparent examples from our cases is any case where we had to de
 > That's weird - maybe our constituents should vote in favor for more regulation to keep themselves safe.
 
 I'm not sure if there's a clean solution on the institutional level to solve this problem. I do know, however, that I should do my best to stop passing the buck of blame onto the next sorry schmuck in the chain.
+
+![](are-we-the-baddies.gif)
