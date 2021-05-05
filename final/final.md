@@ -46,7 +46,9 @@ Of course, this berating was very much an instance of the old parental classic *
 
 When I do it, though, it's usually trying to be an interface between two stakeholders of the same project, and passing the buck from one to another.
 
-> That's weird - we tried to plan for a more normal semester, but the University shut down.
+> That's weird - we tried to plan for a more normal semester, but the University shut down our proposal.
+>
+> That's weird - we were responsible until a few of our members took it upon themselves to break COVID guidelines.
 > 
 > That's weird - that report should be available to you, but IT's new filesharing system may have screwed up the upload.
 
