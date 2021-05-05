@@ -22,7 +22,7 @@ Elizabeth Holmes was told at *nineteen years old,* by *trusted advisors*, that s
 
 This semester, I was the student leader for a group of 30 engineering students. Engineering students are, at their very core, unexciting individuals. If you have ever met an exciting engineer, that behavior was learned by study, not given as a birthright. We, like many groups, would be disciplined by the University if we held any form of COVID-unsafe planning. This is reasonable - in general, it is probably unwise to place the trust of self-moderation in anybody in their twenties.  Being an engineering group of little prior incident, however, I was sure I could petition the University to make a special case for us.
 
-I had a plan laid-out and in-motion, and had conversations with our stakeholders at the University to make a solid case for this action. These conversations were held over the course of December 2020, in preperation for the new semester. I thought the plan would stick, so I made a promise to my members that we would be able to return to some semblence of normal.
+I had a plan laid-out and in-motion, and had conversations with our stakeholders at the University to make a solid case for this action. These conversations were held over the course of December 2020, in preparation for the new semester. I thought the plan would stick, so I made a promise to my members that we would be able to return to some semblance of normal.
 
 A week prior to my final meeting, a dozen of our groups' members held an event, privately, that resulted in a community report that made its' way to the University. It involved a handful of pictures of members wearing our organizations' branding, and was immediately associated with us. This immediately turned my plan inside-out, and ultimately the plan was declined altogether.
 
@@ -32,11 +32,11 @@ I like to pride myself on planning contingencies on contingencies - I haven't de
 
 ## Correction: Stop Passing the Buck
 
-My junior year of college, I sat down with an unruly roommate about some of his more annoying behaviors. We were dealing with a solid portfolio of *bachleor-pad* problems - ants in the kitchen from food being left out, animals in our trash to raid bins knocked over on his way through the driveway, and underwear in any number of places where underwear ought not be left.
+My junior year of college, I sat down with an unruly roommate about some of his more annoying behaviors. We were dealing with a solid portfolio of *bachelor-pad* problems - ants in the kitchen from food being left out, animals in our trash to raid bins knocked over on his way through the driveway, and underwear in any number of places where underwear ought not be left.
 
 I, admittedly, dug a bit more into his personal character than I ought have. I told him it was none of these things in isolation that bugged me - they all did, but I felt it'd be better to be mad about one overarching issue than several spot instances - but rather a pattern of explanation that bugged me more than anything. I called them *"weird-isms"*:
 
-> That's weird - I could've sworn there were ants here before I left thhat out.
+> That's weird - I could've sworn there were ants here before I left that out.
 >
 > That's weird - those must've fallen out of my laundry basket.
 >
@@ -52,7 +52,7 @@ When I do it, though, it's usually trying to be an interface between two stakeho
 > 
 > That's weird - that report should be available to you, but IT's new filesharing system may have screwed up the upload.
 
-*Weird-isms* dominate many of the cases we read about, and much of the business world. Very rarely is a fault ever *actually* the result of one players' action - fault eminates, like heat, across the system of actors.
+*Weird-isms* dominate many of the cases we read about, and much of the business world. Very rarely is a fault ever *actually* the result of one players' action - fault emanates, like heat, across the system of actors.
 
 The most readily apparent examples from our cases is any case where we had to determine who was at fault for a crisis - which was, in hindsight, most of them. The grandest case of *weird-ism* was the Bangladeshi Textile case: **Who is responsible when a textile mill burns down, with its' workers inside?**
 
