@@ -1,4 +1,4 @@
-![](are-we-the-baddies.gif)
+![](are-we-the-baddies.mp4)
 
 ## Am I the Baddie: A Stakeholder Reflective
 
